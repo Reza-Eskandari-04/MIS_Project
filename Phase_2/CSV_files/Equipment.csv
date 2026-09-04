@@ -1,0 +1,151 @@
+﻿EquipmentID,EquipmentType,Model,PurchaseDate,LastMaintenanceDate,Status
+1,Conveyor,Model-19jr,2023-09-29,2024-09-09,Maintenance
+2,Jaw Crusher,Model-49aI,2024-08-04,2024-02-09,Maintenance
+3,Jaw Crusher,Model-02yV,2023-09-18,2023-12-21,Operational
+4,Drill Rig,Model-81Db,2023-09-23,2023-12-15,Out of Service
+5,Conveyor,Model-69RB,2024-10-13,2024-02-18,Maintenance
+6,Drill Rig,Model-45Az,2024-08-26,2024-03-22,Operational
+7,Drill Rig,Model-97dg,2023-12-17,2025-04-20,Out of Service
+8,Truck,Model-70PT,2025-04-24,2024-06-12,Maintenance
+9,Truck,Model-00hL,2024-07-25,2024-04-23,Operational
+10,Drill Rig,Model-28GW,2024-03-27,2025-01-19,Out of Service
+11,Drill Rig,Model-58rY,2024-08-19,2025-03-03,Maintenance
+12,Drill Rig,Model-95ZE,2024-05-03,2025-02-25,Out of Service
+13,Drill Rig,Model-39pg,2024-02-07,2023-06-27,Operational
+14,Conveyor,Model-85kh,2023-05-18,2025-04-30,Operational
+15,Drill Rig,Model-05BU,2024-05-13,2023-10-02,Operational
+16,Truck,Model-54QO,2023-05-17,2024-03-12,Maintenance
+17,Drill Rig,Model-09BA,2025-04-22,2025-04-28,Operational
+18,Conveyor,Model-65sW,2023-07-21,2023-10-27,Out of Service
+19,Jaw Crusher,Model-57ZS,2024-09-23,2024-08-15,Maintenance
+20,Jaw Crusher,Model-39Hj,2024-08-28,2023-06-02,Operational
+21,Drill Rig,Model-05Rh,2024-07-22,2024-08-22,Maintenance
+22,Conveyor,Model-82IP,2024-09-28,2023-11-04,Out of Service
+23,Drill Rig,Model-75WT,2024-08-24,2024-09-01,Operational
+24,Jaw Crusher,Model-19bE,2025-02-16,2023-10-22,Maintenance
+25,Jaw Crusher,Model-36Ol,2024-03-31,2023-11-06,Out of Service
+26,Truck,Model-63gp,2025-02-01,2024-11-04,Out of Service
+27,Conveyor,Model-55Qp,2024-10-31,2024-03-02,Maintenance
+28,Truck,Model-77xF,2024-07-26,2024-02-19,Out of Service
+29,Conveyor,Model-36Cz,2024-01-22,2023-10-11,Out of Service
+30,Jaw Crusher,Model-81KF,2024-01-19,2024-08-26,Maintenance
+31,Drill Rig,Model-42ja,2023-06-27,2023-08-27,Maintenance
+32,Drill Rig,Model-66gZ,2024-09-14,2024-11-10,Maintenance
+33,Conveyor,Model-01lD,2024-03-22,2023-12-19,Out of Service
+34,Drill Rig,Model-68Zs,2023-09-29,2024-11-28,Maintenance
+35,Conveyor,Model-22Hg,2024-10-26,2024-11-09,Out of Service
+36,Jaw Crusher,Model-40Dz,2024-06-03,2025-03-13,Maintenance
+37,Conveyor,Model-38Sz,2025-01-14,2024-02-04,Maintenance
+38,Jaw Crusher,Model-08Zp,2024-05-18,2023-05-02,Operational
+39,Truck,Model-62Ql,2025-02-12,2024-11-04,Maintenance
+40,Truck,Model-53eX,2025-02-05,2024-10-29,Out of Service
+41,Jaw Crusher,Model-88kl,2024-08-15,2024-10-15,Out of Service
+42,Conveyor,Model-69bG,2024-07-11,2023-12-25,Maintenance
+43,Jaw Crusher,Model-36pY,2024-09-24,2024-04-10,Maintenance
+44,Jaw Crusher,Model-08Um,2024-07-01,2024-05-21,Operational
+45,Drill Rig,Model-89PI,2025-04-29,2023-09-10,Maintenance
+46,Drill Rig,Model-13zX,2024-05-24,2024-10-06,Operational
+47,Truck,Model-71KP,2025-02-23,2023-08-22,Maintenance
+48,Jaw Crusher,Model-06fJ,2024-05-05,2023-05-25,Out of Service
+49,Truck,Model-17cH,2024-08-09,2024-02-12,Out of Service
+50,Truck,Model-30bt,2024-10-10,2024-04-04,Out of Service
+51,Truck,Model-74UA,2024-11-24,2024-07-04,Maintenance
+52,Jaw Crusher,Model-29iJ,2024-07-21,2024-01-21,Operational
+53,Jaw Crusher,Model-58OC,2025-04-03,2025-03-10,Operational
+54,Conveyor,Model-86Jk,2025-02-24,2025-01-12,Maintenance
+55,Conveyor,Model-66Zm,2024-12-17,2024-06-02,Out of Service
+56,Drill Rig,Model-74xj,2024-04-14,2024-05-15,Operational
+57,Jaw Crusher,Model-49rl,2024-08-11,2024-01-02,Operational
+58,Conveyor,Model-91Ux,2024-04-30,2025-04-29,Out of Service
+59,Jaw Crusher,Model-52qq,2023-09-06,2024-08-11,Maintenance
+60,Jaw Crusher,Model-45yr,2025-02-05,2023-07-26,Maintenance
+61,Jaw Crusher,Model-97aj,2023-11-25,2024-07-27,Out of Service
+62,Drill Rig,Model-24om,2024-10-06,2024-09-13,Out of Service
+63,Jaw Crusher,Model-19IN,2025-01-26,2023-12-14,Maintenance
+64,Conveyor,Model-38BT,2024-06-11,2025-01-19,Maintenance
+65,Conveyor,Model-39iJ,2023-12-21,2024-06-29,Out of Service
+66,Conveyor,Model-76Tm,2024-07-11,2024-09-26,Out of Service
+67,Drill Rig,Model-11jY,2024-12-15,2023-12-01,Maintenance
+68,Conveyor,Model-00Vz,2025-01-15,2024-03-29,Out of Service
+69,Drill Rig,Model-66Ri,2024-03-03,2023-05-09,Out of Service
+70,Drill Rig,Model-99iR,2024-08-14,2025-02-12,Maintenance
+71,Drill Rig,Model-88ep,2024-06-23,2023-12-28,Maintenance
+72,Jaw Crusher,Model-62sm,2023-11-18,2024-12-05,Operational
+73,Jaw Crusher,Model-65Vl,2023-11-15,2023-07-07,Operational
+74,Truck,Model-34Tj,2023-12-27,2024-09-08,Maintenance
+75,Drill Rig,Model-57Is,2023-05-12,2024-05-17,Operational
+76,Truck,Model-18tn,2024-08-12,2023-07-29,Out of Service
+77,Drill Rig,Model-70sZ,2024-12-09,2024-05-24,Operational
+78,Drill Rig,Model-99gN,2023-06-05,2023-10-19,Out of Service
+79,Jaw Crusher,Model-57qN,2024-12-28,2025-03-06,Operational
+80,Jaw Crusher,Model-00Yu,2024-04-20,2024-08-13,Maintenance
+81,Drill Rig,Model-22Og,2024-04-20,2024-12-01,Maintenance
+82,Jaw Crusher,Model-16OL,2025-03-23,2024-09-11,Operational
+83,Drill Rig,Model-33GG,2024-02-01,2024-12-03,Out of Service
+84,Jaw Crusher,Model-61Tn,2023-10-28,2025-04-19,Out of Service
+85,Conveyor,Model-68iT,2024-05-29,2023-11-22,Operational
+86,Truck,Model-94Ua,2024-04-09,2024-04-04,Out of Service
+87,Drill Rig,Model-13WK,2023-10-10,2024-02-14,Out of Service
+88,Conveyor,Model-67IN,2024-10-25,2024-12-30,Operational
+89,Conveyor,Model-34cO,2024-05-04,2023-10-27,Operational
+90,Conveyor,Model-28Go,2025-04-18,2023-06-12,Maintenance
+91,Jaw Crusher,Model-64XQ,2024-01-16,2023-07-19,Maintenance
+92,Jaw Crusher,Model-66rF,2024-10-22,2024-08-06,Out of Service
+93,Jaw Crusher,Model-12lJ,2024-08-29,2024-06-04,Operational
+94,Jaw Crusher,Model-07Wc,2023-08-21,2024-06-03,Maintenance
+95,Jaw Crusher,Model-73zU,2024-02-23,2024-06-01,Operational
+96,Truck,Model-85pg,2025-02-28,2023-09-04,Maintenance
+97,Drill Rig,Model-10BC,2024-04-04,2023-08-09,Out of Service
+98,Drill Rig,Model-32MG,2023-06-12,2023-12-13,Maintenance
+99,Conveyor,Model-38yH,2024-09-10,2025-04-16,Operational
+100,Jaw Crusher,Model-53ox,2023-07-26,2023-06-07,Maintenance
+101,Jaw Crusher,Model-91vd,2024-02-01,2025-03-17,Maintenance
+102,Drill Rig,Model-70Nl,2025-03-07,2023-06-23,Maintenance
+103,Drill Rig,Model-24Ec,2024-12-30,2023-10-17,Out of Service
+104,Truck,Model-98eK,2025-04-11,2023-05-03,Out of Service
+105,Conveyor,Model-61zY,2023-05-07,2024-10-04,Maintenance
+106,Conveyor,Model-89Pt,2023-11-15,2023-06-17,Maintenance
+107,Truck,Model-64wE,2024-12-04,2024-03-24,Maintenance
+108,Conveyor,Model-08Eb,2024-06-24,2024-11-19,Out of Service
+109,Conveyor,Model-64LV,2024-11-27,2024-11-06,Maintenance
+110,Jaw Crusher,Model-52ML,2023-06-11,2025-02-21,Out of Service
+111,Truck,Model-84eM,2023-12-25,2023-05-17,Out of Service
+112,Drill Rig,Model-56zH,2024-02-19,2023-06-21,Maintenance
+113,Drill Rig,Model-09Lh,2023-05-12,2023-06-12,Operational
+114,Truck,Model-09Ha,2024-01-08,2023-05-07,Maintenance
+115,Conveyor,Model-15vx,2024-01-18,2023-05-28,Operational
+116,Conveyor,Model-80Ox,2023-12-26,2024-06-21,Operational
+117,Truck,Model-91FO,2024-07-31,2024-01-19,Out of Service
+118,Jaw Crusher,Model-18Cv,2025-03-12,2024-01-14,Operational
+119,Drill Rig,Model-88ak,2025-01-01,2024-12-30,Maintenance
+120,Truck,Model-55nj,2025-01-30,2023-05-15,Out of Service
+121,Jaw Crusher,Model-92Lg,2025-03-07,2024-08-17,Operational
+122,Conveyor,Model-65GA,2023-06-08,2023-05-07,Operational
+123,Drill Rig,Model-55qM,2023-10-09,2024-07-08,Maintenance
+124,Truck,Model-50Te,2024-11-07,2023-10-12,Out of Service
+125,Truck,Model-34Wz,2023-07-03,2024-04-29,Out of Service
+126,Truck,Model-84KY,2024-01-11,2023-10-03,Maintenance
+127,Drill Rig,Model-91eT,2023-08-02,2023-11-23,Operational
+128,Conveyor,Model-24Af,2024-10-03,2023-12-16,Operational
+129,Jaw Crusher,Model-24JU,2025-01-27,2024-07-25,Operational
+130,Jaw Crusher,Model-43ng,2024-09-13,2024-07-01,Operational
+131,Jaw Crusher,Model-47dV,2023-06-21,2024-06-09,Maintenance
+132,Jaw Crusher,Model-84YZ,2023-08-08,2023-11-12,Operational
+133,Truck,Model-38eJ,2024-12-27,2025-03-21,Maintenance
+134,Conveyor,Model-55sH,2024-10-18,2023-10-29,Operational
+135,Truck,Model-20Cx,2023-12-15,2023-09-19,Out of Service
+136,Drill Rig,Model-00uA,2024-03-14,2023-10-11,Operational
+137,Jaw Crusher,Model-28cT,2024-08-14,2024-02-29,Out of Service
+138,Jaw Crusher,Model-98Bl,2024-01-20,2025-03-19,Maintenance
+139,Truck,Model-33hL,2023-10-28,2023-06-16,Maintenance
+140,Conveyor,Model-29Gh,2023-05-22,2023-11-02,Out of Service
+141,Conveyor,Model-47mY,2024-09-12,2024-07-05,Operational
+142,Jaw Crusher,Model-05Dv,2024-10-26,2024-10-26,Operational
+143,Jaw Crusher,Model-95oO,2024-10-17,2024-04-16,Operational
+144,Drill Rig,Model-00Fc,2023-09-20,2023-05-28,Operational
+145,Jaw Crusher,Model-24Jc,2024-12-07,2024-01-13,Operational
+146,Drill Rig,Model-03Wf,2024-12-16,2024-01-09,Operational
+147,Conveyor,Model-82cH,2024-12-08,2024-03-11,Operational
+148,Jaw Crusher,Model-33Cs,2024-05-26,2023-08-02,Operational
+149,Drill Rig,Model-37Gx,2024-12-03,2023-05-13,Operational
+150,Jaw Crusher,Model-56Pe,2024-07-19,2024-07-10,Operational

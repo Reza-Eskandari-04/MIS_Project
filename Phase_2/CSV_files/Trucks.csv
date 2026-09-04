@@ -1,0 +1,151 @@
+﻿TruckID,LicensePlate,DriverName,CapacityTons,PurchaseDate,Status,OperationID,WarehouseID,working place
+1,IR-3201,Stacey Hendricks,41.44934738,2023-07-07,Operational,16,22,Karenbury
+2,IR-2033,Melinda Jones,44.90969336,2023-05-03,Operational,17,24,Karenbury
+3,IR-5179,Joseph Galloway,38.90948095,2024-06-01,Operational,18,27,Karenbury
+4,IR-2931,Cheryl Kelly,43.82293528,2024-03-31,Operational,19,40,Karenbury
+5,IR-9117,Katie Berg,42.04790213,2025-04-07,Operational,20,27,Karenbury
+6,IR-8364,Rachael Sims,35.31172897,2023-10-30,Operational,21,22,Karenbury
+7,IR-8737,Gloria Martinez,31.2014905,2023-07-11,Operational,49,22,Karenbury
+8,IR-7219,Amanda Nelson,34.81030347,2023-12-25,Operational,50,24,Karenbury
+9,IR-4439,homelander,37.78074256,2024-05-13,Operational,51,27,Karenbury
+10,IR-2537,Ryan Murphy,42.21815888,2024-08-17,Operational,88,22,Karenbury
+11,IR-8993,Ian Williams,41.71615091,2023-06-18,Operational,89,40,Karenbury
+12,IR-1464,Melissa Smith,39.24689574,2024-07-19,Operational,90,27,Karenbury
+13,IR-7386,Chad Wood,39.67817551,2024-03-29,Operational,133,27,Karenbury
+14,IR-8090,Brenda Perez,43.94722227,2024-07-09,Operational,134,40,Karenbury
+15,IR-1034,Jorge Santana,39.97031292,2023-12-18,Operational,135,27,Karenbury
+16,IR-8297,Stephanie Weaver,36.99791914,2024-02-29,Operational,1,12,Lake Austin
+17,IR-5363,Seth Carpenter,34.15699421,2024-08-30,Operational,2,13,Lake Austin
+18,IR-4748,Jose Kelly,41.05065899,2023-06-01,Operational,3,26,Lake Austin
+19,IR-2674,Benjamin Harris,43.73193434,2024-10-02,Operational,28,28,Lake Austin
+20,IR-6200,Brandi Clark,42.14822317,2024-08-05,Operational,29,29,Lake Austin
+21,IR-1501,Jack Williams,43.14216556,2023-05-23,Operational,30,12,Lake Austin
+22,IR-1365,Leonard Gregory,32.82740061,2023-12-01,Operational,40,13,Lake Austin
+23,IR-1416,Anita Schneider,41.00517511,2025-04-05,Operational,41,26,Lake Austin
+24,IR-9870,Grant Andrews,35.91332876,2024-08-24,Operational,42,29,Lake Austin
+25,IR-1150,Megan Galloway,31.0476975,2024-05-06,Operational,67,28,Lake Austin
+26,IR-7245,Eugene Castillo,39.05693952,2024-04-05,Operational,68,29,Lake Austin
+27,IR-4548,Anthony Richardson,43.16470912,2023-10-18,Operational,69,12,Lake Austin
+28,IR-7915,Brandy Jones,31.34418982,2023-11-25,Operational,85,12,Lake Austin
+29,IR-1475,Patrick Bradley,43.77428027,2025-04-06,Operational,86,28,Lake Austin
+30,IR-9644,Lisa Zamora DDS,40.4811438,2025-03-06,Operational,87,12,Lake Austin
+31,IR-4632,Mr. Benjamin Brown,36.58190375,2024-01-05,Operational,112,13,Lake Austin
+32,IR-8174,Shannon Smith,36.76082173,2024-12-22,Operational,113,29,Lake Austin
+33,IR-9123,Garrett Edwards,44.2188258,2024-05-06,Operational,114,12,Lake Austin
+34,IR-4818,Dawn Torres,41.15737724,2024-04-08,Operational,118,12,Lake Austin
+35,IR-6663,Dr. Edward Schultz,32.98195834,2024-06-18,Operational,119,26,Lake Austin
+36,IR-4782,Jeffrey Ho,34.72007275,2023-06-12,Operational,120,26,Lake Austin
+37,IR-4584,Herbert Valdez,38.28188955,2023-11-25,Operational,7,4,Lake Jamieport
+38,IR-8530,Laura Franklin,31.90928601,2024-06-02,Operational,8,25,Lake Jamieport
+39,IR-5747,Erica Bell,32.26135625,2023-09-13,Operational,9,30,Lake Jamieport
+40,IR-1352,Joseph Bradley,31.59248574,2024-11-29,Operational,94,32,Lake Jamieport
+41,IR-7818,Jennifer Cole,33.8908166,2024-10-30,Operational,95,36,Lake Jamieport
+42,IR-2638,Tricia Sanchez,44.69596303,2024-04-05,Operational,96,36,Lake Jamieport
+43,IR-4045,Danielle Figueroa,30.72700121,2024-04-18,Operational,127,25,Lake Jamieport
+44,IR-5856,Jonathon Hudson,37.25129088,2023-12-16,Operational,128,4,Lake Jamieport
+45,IR-2980,Sylvia Pope,35.53913205,2024-07-28,Operational,129,32,Lake Jamieport
+46,IR-6450,Kathleen Smith,44.46123052,2024-08-01,Operational,55,7,Lake Scott
+47,IR-9205,Kristina Harmon,36.66594964,2023-09-19,Operational,56,14,Lake Scott
+48,IR-7915,Kevin Williams,33.30691213,2024-01-05,Operational,57,21,Lake Scott
+49,IR-9318,Samantha Kim,36.19988483,2024-05-31,Operational,79,23,Lake Scott
+50,IR-4110,Mary Torres,39.10270115,2024-09-23,Operational,80,34,Lake Scott
+51,IR-5970,Peter Kelly,31.67138192,2024-03-04,Operational,81,34,Lake Scott
+52,IR-5655,Jeremy Whitaker,43.8830231,2024-12-11,Operational,106,14,Lake Scott
+53,IR-9181,Latoya Booker,42.41898272,2024-09-29,Operational,107,14,Lake Scott
+54,IR-9278,John Smith,30.42029662,2024-10-19,Operational,108,21,Lake Scott
+55,IR-7444,Shawn Brown,38.895128,2024-03-17,Operational,124,7,Lake Scott
+56,IR-1565,Katrina Huerta,33.58851188,2024-10-14,Operational,125,14,Lake Scott
+57,IR-8868,Barbara Baker DVM,43.16464648,2024-07-08,Operational,126,21,Lake Scott
+58,IR-4977,Christopher Buck,37.79351099,2024-08-06,Operational,130,23,Lake Scott
+59,IR-7623,Elizabeth Spencer,38.70182106,2024-03-05,Operational,131,34,Lake Scott
+60,IR-7788,Jimmy Arnold,40.25306655,2024-05-05,Operational,132,34,Lake Scott
+61,IR-3834,Luis Friedman,38.35094389,2024-12-05,Operational,136,7,Lake Scott
+62,IR-7014,Rachel Campbell,34.13390015,2024-09-01,Operational,137,7,Lake Scott
+63,IR-9991,Aaron Zavala,42.38132482,2023-10-19,Operational,138,14,Lake Scott
+64,IR-7139,James Pena,44.85550727,2023-12-24,Operational,31,3,Mcfarlandburgh
+65,IR-2416,Lisa Gonzales,33.17776522,2023-05-14,Operational,32,5,Mcfarlandburgh
+66,IR-8191,Jessica Conley,41.10455045,2023-06-19,Operational,33,19,Mcfarlandburgh
+67,IR-9330,Nathan Davis,39.91605399,2023-08-23,Operational,34,39,Mcfarlandburgh
+68,IR-2768,Jeremy White,39.45510647,2024-05-18,Operational,35,39,Mcfarlandburgh
+69,IR-3682,Samuel Johnson,41.23857066,2025-01-27,Operational,36,5,Mcfarlandburgh
+70,IR-9535,William Cole,35.94251724,2025-03-24,Operational,43,3,Mcfarlandburgh
+71,IR-7443,Thomas Parsons,32.40996874,2023-07-29,Operational,44,19,Mcfarlandburgh
+72,IR-7070,Kyle White,31.87271796,2025-02-01,Operational,45,39,Mcfarlandburgh
+73,IR-9023,Kristie Lindsey,41.39705642,2024-02-04,Operational,25,1,New Sonia
+74,IR-1484,Timothy Hall,30.91523708,2023-11-18,Operational,26,20,New Sonia
+75,IR-8689,Jessica Oneal,34.15850834,2025-02-15,Operational,27,33,New Sonia
+76,IR-1712,Anthony Mcdonald,33.26119263,2025-02-10,Operational,46,35,New Sonia
+77,IR-6054,Julie Romero,42.68631056,2023-12-27,Operational,47,20,New Sonia
+78,IR-7448,Joshua Simmons,42.37575752,2025-01-03,Operational,48,20,New Sonia
+79,IR-3791,Natalie Woods,39.80772807,2024-06-24,Operational,73,33,New Sonia
+80,IR-3762,Charles Maddox,35.62452777,2025-03-13,Operational,74,33,New Sonia
+81,IR-9228,Courtney Shepherd,36.86364617,2023-12-22,Operational,75,35,New Sonia
+82,IR-4718,Jesse Wiley,42.90993215,2023-08-16,Operational,82,35,New Sonia
+83,IR-1201,Brian Williams,34.0625479,2023-07-22,Operational,83,1,New Sonia
+84,IR-4268,James Morris,32.00674453,2024-05-24,Operational,84,20,New Sonia
+85,IR-9841,Adrian Freeman,31.00338458,2023-08-16,Operational,97,20,New Sonia
+86,IR-9983,Patrick Turner,35.96690313,2024-04-18,Operational,98,1,New Sonia
+87,IR-4803,Emily Mullins,36.86793174,2025-02-19,Operational,99,20,New Sonia
+88,IR-7626,John Griffin,44.95159405,2023-05-30,Operational,100,20,New Sonia
+89,IR-9417,Joshua Herrera,33.23214332,2024-04-11,Operational,101,20,New Sonia
+90,IR-6633,Roger Lynn,34.25346788,2024-04-29,Operational,102,33,New Sonia
+91,IR-6788,Madison Cummings,38.90559902,2024-11-17,Operational,115,1,New Sonia
+92,IR-8522,Kevin Ford,40.67393916,2024-07-16,Operational,116,20,New Sonia
+93,IR-5411,Mr. Joshua Robinson,33.68063718,2025-04-07,Operational,117,33,New Sonia
+94,IR-9978,Curtis Wheeler,37.03702698,2024-01-09,Operational,121,35,New Sonia
+95,IR-1093,Richard Whitehead,31.93520751,2024-06-24,Operational,122,1,New Sonia
+96,IR-7286,Erin Bender,42.40926871,2024-02-13,Operational,123,20,New Sonia
+97,IR-9396,Isaiah Larson,34.5840725,2023-08-06,Operational,148,35,New Sonia
+98,IR-3117,Jennifer Buchanan,40.73550764,2024-11-03,Operational,149,1,New Sonia
+99,IR-9498,Donna Walker,38.45448805,2023-05-12,Operational,150,35,New Sonia
+100,IR-4366,Michael Santiago,40.89787133,2024-06-21,Operational,22,10,North Jeremymouth
+101,IR-7981,James Winters,31.88024711,2023-10-04,Operational,23,11,North Jeremymouth
+102,IR-1919,Lindsey Deleon,41.0919247,2024-12-18,Operational,24,18,North Jeremymouth
+103,IR-8882,Courtney Jones,31.96253379,2023-11-25,Operational,52,35,North Jeremymouth
+104,IR-6975,Janice Page,33.69204438,2024-08-26,Operational,53,10,North Jeremymouth
+105,IR-4274,Jeffrey Stokes,39.92838638,2025-01-19,Operational,54,18,North Jeremymouth
+106,IR-9269,Jason Hernandez,35.35513266,2023-06-20,Operational,58,10,North Jeremymouth
+107,IR-7773,Morgan Benitez,43.55093676,2024-12-30,Operational,59,35,North Jeremymouth
+108,IR-8945,Brianna Kim,34.90905905,2024-04-23,Operational,60,10,North Jeremymouth
+109,IR-6845,Marcia Haynes,37.90846779,2023-12-07,Operational,91,35,North Jeremymouth
+110,IR-7789,Terri Clark,34.08240782,2023-05-10,Operational,92,35,North Jeremymouth
+111,IR-6670,Wayne Martin,36.33019701,2024-09-14,Operational,93,18,North Jeremymouth
+112,IR-1025,Barbara Richards,33.2303825,2023-11-23,Operational,139,35,North Jeremymouth
+113,IR-9822,Casey Cook,36.02176847,2024-11-14,Operational,140,18,North Jeremymouth
+114,IR-9849,Michaela Stewart,41.23936212,2024-05-24,Operational,141,10,North Jeremymouth
+115,IR-6425,Ian Thompson,43.99688028,2024-10-19,Operational,4,9,North Lisatown
+116,IR-8506,Jonathan Burns,43.66546575,2023-05-17,Operational,5,15,North Lisatown
+117,IR-1458,Ann Patel,44.55244149,2024-07-13,Operational,6,31,North Lisatown
+118,IR-4761,Brenda Ward,30.14807184,2024-03-07,Operational,13,31,North Lisatown
+119,IR-3903,Steven Bailey,40.02736617,2023-07-27,Operational,14,9,North Lisatown
+120,IR-3961,John Rice,44.76574632,2023-07-16,Operational,15,15,North Lisatown
+121,IR-2500,Michelle Harris,39.4110165,2024-10-14,Operational,37,31,North Lisatown
+122,IR-5182,Abigail Terry,30.29396285,2024-01-06,Operational,38,31,North Lisatown
+123,IR-1531,Robert Lopez,31.65696915,2024-08-13,Operational,39,15,North Lisatown
+124,IR-2154,Robin Ingram,40.61862081,2024-08-24,Operational,70,9,North Lisatown
+125,IR-2363,James Garcia,35.41317824,2024-09-07,Operational,71,9,North Lisatown
+126,IR-1273,Wendy Mills,34.09023484,2024-10-22,Operational,72,9,North Lisatown
+127,IR-8421,Mary Thomas,36.80943314,2024-10-16,Operational,145,31,North Lisatown
+128,IR-1238,Gregory Christensen,39.62221444,2024-07-18,Operational,146,31,North Lisatown
+129,IR-5607,Jacob Dunn,39.53293249,2025-04-20,Operational,147,15,North Lisatown
+130,IR-5088,Austin Young,32.86326816,2025-03-20,Operational,10,2,Petersonview
+131,IR-5401,Michael Bryant,33.42314533,2024-04-12,Operational,11,8,Petersonview
+132,IR-2793,Latoya Brown,36.10998356,2023-07-11,Operational,12,16,Petersonview
+133,IR-4024,Sabrina Smith,42.51063088,2024-08-17,Operational,61,2,Petersonview
+134,IR-6643,Richard Perry,39.5235068,2024-05-22,Operational,62,16,Petersonview
+135,IR-5756,Melissa Guerrero,35.6652232,2024-06-15,Operational,63,8,Petersonview
+136,IR-2138,Peggy Richards,38.51012667,2024-01-22,Operational,109,2,Petersonview
+137,IR-3743,Jesse Barker,35.90037137,2024-07-31,Operational,110,2,Petersonview
+138,IR-3615,Lauren Bailey,34.54969082,2025-03-09,Operational,111,16,Petersonview
+139,IR-5181,Danielle Fowler,44.83372151,2024-10-09,Operational,64,6,Roseberg
+140,IR-9640,Charles Smith,33.47236006,2023-06-03,Operational,65,17,Roseberg
+141,IR-3754,Dwayne Kennedy,37.45428285,2023-09-23,Operational,66,37,Roseberg
+142,IR-5471,Austin Hogan,39.20912346,2023-09-09,Operational,76,6,Roseberg
+143,IR-5824,Mrs. Julie Morrison,40.57773266,2023-06-13,Operational,77,17,Roseberg
+144,IR-8449,Joshua Craig,41.69803907,2024-08-22,Operational,78,37,Roseberg
+145,IR-6275,Maria Gardner,34.53814688,2023-07-30,Operational,103,37,Roseberg
+146,IR-9134,Thomas Mills,42.93703248,2025-01-16,Operational,104,6,Roseberg
+147,IR-8762,Nicholas Kim,40.43630261,2023-06-03,Operational,105,37,Roseberg
+148,IR-2870,Kevin Cline,43.05057593,2023-07-31,Operational,142,37,Roseberg
+149,IR-1387,Brendan Rodriguez,30.19224691,2024-07-05,Operational,143,17,Roseberg
+150,IR-6111,Ashley Pena,42.40766111,2024-06-15,Operational,144,6,Roseberg

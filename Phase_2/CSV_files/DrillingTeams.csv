@@ -1,0 +1,151 @@
+﻿TeamID,TeamName,LeadName,MemberCount,FormationDate,EquipmentAssigned,shift,location,field
+1,Team 1,Ryan Gallagher,8,2023-08-01,Scene Rig,morning,Karenbury,CrushingOperations
+2,Team 2,Jon Cole,6,2024-03-30,Water Rig,evening,Karenbury,CrushingOperations
+3,Team 3,Rachel Davis,7,2024-08-09,Smile Rig,night,Karenbury,CrushingOperations
+4,Team 4,Russell Reynolds,3,2024-06-18,Author Rig,morning,Lake Austin,CrushingOperations
+5,Team 5,April Griffin,4,2024-03-13,Mind Rig,evening,Lake Austin,CrushingOperations
+6,Team 6,Crystal Landry,6,2025-04-06,Skill Rig,night,Lake Austin,CrushingOperations
+7,Team 7,Amanda Johnson,8,2023-07-31,End Rig,morning,Lake Jamieport,CrushingOperations
+8,Team 8,Teresa James,3,2024-09-25,Push Rig,evening,Lake Jamieport,CrushingOperations
+9,Team 9,Javier Johnson,3,2023-12-16,Range Rig,night,Lake Jamieport,CrushingOperations
+10,Team 10,Jeffrey Simpson,4,2023-12-02,Fill Rig,morning,Lake Scott,CrushingOperations
+11,Team 11,David Robinson,7,2023-11-09,Professional Rig,evening,Lake Scott,CrushingOperations
+12,Team 12,Dylan Smith,8,2024-02-19,Against Rig,night,Lake Scott,CrushingOperations
+13,Team 13,Kristie May,7,2024-12-03,Investment Rig,morning,Mcfarlandburgh,CrushingOperations
+14,Team 14,Willie Heath,9,2024-07-08,Set Rig,evening,Mcfarlandburgh,CrushingOperations
+15,Team 15,Gary Griffith,4,2023-05-04,Professional Rig,night,Mcfarlandburgh,CrushingOperations
+16,Team 16,Taylor Henderson,5,2023-09-25,Clearly Rig,morning,New Sonia,CrushingOperations
+17,Team 17,Meagan Turner,7,2024-06-14,Property Rig,evening,New Sonia,CrushingOperations
+18,Team 18,Sonya Mathis,9,2024-04-05,Start Rig,night,New Sonia,CrushingOperations
+19,Team 19,Leah Johnson,8,2024-07-23,Write Rig,morning,North Jeremymouth,CrushingOperations
+20,Team 20,Robert Perry,5,2023-05-17,Industry Rig,evening,North Jeremymouth,CrushingOperations
+21,Team 21,Joshua Warner,7,2023-05-24,Stay Rig,night,North Jeremymouth,CrushingOperations
+22,Team 22,Jade Gonzales,6,2024-08-30,Expect Rig,morning,North Lisatown,CrushingOperations
+23,Team 23,Paula Meyer,7,2024-08-13,Throughout Rig,evening,North Lisatown,CrushingOperations
+24,Team 24,John Johnson,5,2023-11-05,Could Rig,night,North Lisatown,CrushingOperations
+25,Team 25,Michael Bird,7,2025-02-07,Speak Rig,morning,Petersonview,CrushingOperations
+26,Team 26,Jennifer Jackson,8,2023-11-19,Back Rig,evening,Petersonview,CrushingOperations
+27,Team 27,Vicki Townsend,9,2023-10-08,Teacher Rig,night,Petersonview,CrushingOperations
+28,Team 28,Shannon Hall,5,2023-09-12,Stand Rig,morning,roseberg,CrushingOperations
+29,Team 29,Tiffany Lane,7,2023-12-08,Point Rig,evening,roseberg,CrushingOperations
+30,Team 30,Derrick Kelley,4,2023-08-24,Action Rig,night,roseberg,CrushingOperations
+31,Team 31,Abigail Bowers,10,2024-06-25,Happy Rig,full-time,New Sonia,GeologicalSurveys
+32,Team 32,Stacey Yang,10,2023-10-03,While Rig,full-time,Roseberg,GeologicalSurveys
+33,Team 33,Kelly Hoffman,12,2023-11-29,Everything Rig,full-time,Lake Scott,GeologicalSurveys
+34,Team 34,Anthony Berg,12,2023-12-28,Success Rig,full-time,Karenbury,GeologicalSurveys
+35,Team 35,Christina Wagner,14,2024-07-28,Section Rig,full-time,Lake Jamieport,GeologicalSurveys
+36,Team 36,Mr. Gregory Ryan,11,2024-12-09,Its Rig,full-time,North Jeremymouth,GeologicalSurveys
+37,Team 37,Lisa Ellis,14,2023-11-11,Tv Rig,full-time,Mcfarlandburgh,GeologicalSurveys
+38,Team 38,David Thompson,14,2025-02-05,Reveal Rig,full-time,North Lisatown,GeologicalSurveys
+39,Team 39,Shannon Lindsey,12,2024-10-12,Off Rig,full-time,Lake Austin,GeologicalSurveys
+40,Team 40,Rose Scott,11,2024-04-11,Floor Rig,full-time,Petersonview,GeologicalSurveys
+41,Team 41,Megan Miller,4,2025-01-04,Civil Rig,full-time,lab,Sampling
+42,Team 42,Adrian Campos,3,2025-02-27,Maintain Rig,full-time,lab,Sampling
+43,Team 43,Brian Weber,7,2025-01-18,There Rig,full-time,lab,Sampling
+44,Team 44,Benjamin Moore,4,2025-02-23,Event Rig,full-time,lab,Sampling
+45,Team 45,Carol Nelson,3,2023-09-08,Memory Rig,full-time,lab,Sampling
+46,Team 46,Jordan Morris,3,2024-06-27,Condition Rig,full-time,lab,Sampling
+47,Team 47,Alexander Hughes,8,2024-02-02,Manage Rig,full-time,lab,Sampling
+48,Team 48,Cole Rodriguez,6,2024-05-16,Mrs Rig,full-time,lab,Sampling
+49,Team 49,Katrina Clark,5,2024-03-22,Answer Rig,full-time,lab,Sampling
+50,Team 50,Ruth Smith,4,2025-02-23,Experience Rig,full-time,lab,Sampling
+51,Team 51,Charles Higgins,3,2023-08-03,Mrs Rig,full-time,lab,QualityControl
+52,Team 52,Michael Gregory,9,2024-12-18,Billion Rig,full-time,lab,QualityControl
+53,Team 53,Connie Cantrell,6,2023-10-10,Size Rig,full-time,lab,QualityControl
+54,Team 54,Kellie Walker,9,2024-07-17,Performance Rig,full-time,lab,QualityControl
+55,Team 55,Jennifer Johnston,8,2025-03-13,Knowledge Rig,full-time,lab,QualityControl
+56,Team 56,Mark Brown,4,2024-02-22,Available Rig,full-time,lab,QualityControl
+57,Team 57,Walter Hutchinson,4,2023-10-07,Hear Rig,full-time,lab,QualityControl
+58,Team 58,Scott Collins,6,2023-12-07,Audience Rig,full-time,lab,QualityControl
+59,Team 59,Natasha Butler,7,2025-01-19,Realize Rig,full-time,lab,QualityControl
+60,Team 60,Adam Koch,3,2023-07-23,Level Rig,full-time,lab,QualityControl
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
