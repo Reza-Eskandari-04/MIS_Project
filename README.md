@@ -86,7 +86,7 @@ This project designs a unified **MIS framework** that tracks, monitors, and opti
 - **Business Intelligence & Data Modeling:** Microsoft Power BI Desktop, Power Query (M-Language), DAX
 - **Data Engineering & Preparation:** Microsoft Excel
 
-- ## 💡 Key Learnings & Engineering Insights
+- ##  Key Learnings & Engineering Insights
 
 This capstone project provided critical end-to-end systems engineering insights across management information systems:
 
